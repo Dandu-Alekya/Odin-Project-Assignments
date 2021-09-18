@@ -10,3 +10,5 @@ The properties to add to each element are:
 
 ## Desired Outcome
 ![outcome](https://user-images.githubusercontent.com/70952936/131268832-f3a3bbde-c9e6-4e73-9b99-79ffa3d2144a.png)
+
+## Learning Outcomes
