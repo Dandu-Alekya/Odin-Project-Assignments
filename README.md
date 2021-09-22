@@ -7,8 +7,8 @@ This repository will contain the answers to all the assignments from the Odin pr
 Along with tracking my progress, i will be sharing what i have learned till date!!
 
 ## The topics included: 
-  Foundation course-
-    1. CSS basics (6 exercies)
-    2. Margin based exercies
-    3. Flex (7 exercies)
-    4. FUNDAMENTALS PART 1 - Javascript
+Foundation course-
+1. CSS basics (6 exercies)
+2. Margin based exercies
+3. Flex (7 exercies)
+4. FUNDAMENTALS - Javascript 
