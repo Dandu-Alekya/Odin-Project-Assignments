@@ -1,14 +1,15 @@
-List of exercises: 
+# List of exercises: 
 
-01_helloWorld
-02_repeatString
-03_reverseString
-05_sumAll
-06_leapYears
-07_tempConversion
-08_calculator
-09_palindromes
-10_fibonacci
-11_getTheTitles
-12_findTheOldest
-13_caesar
+1. helloWorld
+2. repeatString
+3. reverseString
+4. removeFromArray
+5. sumAll
+6. leapYears
+7. tempConversion
+8. calculator
+9. palindromes
+10. fibonacci
+11. getTheTitles
+12. findTheOldest
+13. caesar
