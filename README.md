@@ -11,4 +11,5 @@ Foundation course-
 1. CSS basics (6 exercies)
 2. Margin based exercies
 3. Flex (7 exercies)
-4. JavaScript Exercises
+4. JavaScript Exercises - repo exercises and fundamentals exercises
+
