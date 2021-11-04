@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fundamentals part 2</title>
+  <script>
+    //Question - 1 
+    function add7(num){
+      return num+7;
+    }
+    //Question - 2
+    function multiply(num1,num2){
+      return num1*num2;
+    }
+    //Question - 3
+    function capitalize(strc){
+     let y= strc[0];
+     let x = strc.slice(1);
+      return y.toUpperCase() + x.toLowerCase();
+    }
+    //Question - 4
+    function lastletter(str1){
+      l = str1.length;
+      return str1.charAt(l-1);
+    }
+    //Calling the functions and printing the returned value
+    let q1=add7(10);
+    console.log(q1);
+
+    let q2=multiply(30,90);
+    console.log(q2);
+
+    let q3=capitalize("hi MY name IS alekya. HOW are YOU?");
+    console.log(q3);
+
+    let q4=lastletter("lastletterisr");
+    console.log(q4);
+    
+  </script>
+</head>
+<body>
+  
+</body>
+</html>
